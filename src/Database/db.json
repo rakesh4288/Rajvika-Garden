@@ -1,0 +1,77 @@
+{
+  "cricket": [
+    {
+      "id": 1,
+      "playerName": "MS Dhoni",
+      "playerEmail": "ms.dhoni@gmail.com",
+      "playerPhone": "9897978675",
+      "playerTeam": "India",
+      "playerBoard": "BCCI"
+    },
+    {
+      "playerName": "Kane Williamson",
+      "playerEmail": "kane.nz@gmail.com",
+      "playerPhone": "khiyuihkjn",
+      "playerTeam": "09090",
+      "playerBoard": "NZ",
+      "id": 5
+    },
+    {
+      "playerName": "Virender Sehwag",
+      "playerEmail": "sehwag.delhi@gmail.com",
+      "playerPhone": "9762462383",
+      "playerTeam": "Delhi Darevills",
+      "playerBoard": "India",
+      "id": 6
+    },
+    {
+      "playerName": "Rakesh",
+      "playerEmail": "rakesh@gmail.com",
+      "playerPhone": "RAKA",
+      "playerTeam": "RAKA",
+      "playerBoard": "RAKA",
+      "id": 8
+    },
+    {
+      "playerName": "Rakesh",
+      "playerEmail": "rakesh@gmail.com",
+      "playerPhone": "RAKA",
+      "playerTeam": "RAKA",
+      "playerBoard": "RAKA",
+      "id": 9
+    },
+    {
+      "playerName": "Rakesh",
+      "playerEmail": "rakesh@gmail.com",
+      "playerPhone": "RAKA",
+      "playerTeam": "RAKA",
+      "playerBoard": "RAKA",
+      "id": 14
+    },
+    {
+      "playerName": "SASA",
+      "playerEmail": "sasa@gmail.com",
+      "playerPhone": "SASA",
+      "playerTeam": "SASA",
+      "playerBoard": "SASA",
+      "id": 18
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
