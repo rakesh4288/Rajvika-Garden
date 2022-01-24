@@ -4,6 +4,8 @@ const AppImages = {
     WorldCup_2011_1 : require('./2011_1.jpg'),
     WorldCup_2011_2 : require('./2011_2.jpg'),
     WorldCup_2011_3 : require('./2011_3.jpg'),
+    WorldCup_2011_4 : require('./2011_4.jpg'),
+    WorldCup_2011_5 : require('./2011_5.jpg'),
     WorldCup_2013_1 : require('./2013_1.jpg'),
     WorldCup_2013_2 : require('./2013_2.jpg'),
     Dhoni_2013 : require('./Dhoni_2013.jpg'),

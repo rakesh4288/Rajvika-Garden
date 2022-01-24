@@ -3,13 +3,6 @@ import PlayerList from './PlayerList';
 import AddPlayer from './AddPlayer';
 import EditPlayer from './EditPlayer';
 import {Switch,Route, Link } from "react-router-dom";
-// import WorldCup_2011_1 from '../../Assets/images/2011_1.jpg';
-// import WorldCup_2013_1 from '../../Assets/images/2013_1.jpg';
-// import WorldCup_2007_1 from '../../Assets/images/2007_1.jpg';
-// import Dhoni_2013 from '../../Assets/images/Dhoni_2013.jpg';
-// import WorldCup_2011_3 from '../../Assets/images/2011_3.jpg';
-// import WorldCup_2013_2 from '../../Assets/images/2013_2.jpg';
-// import WorldCup_2007_2 from '../../Assets/images/2007_2.jpg';
 import AppImages from "../../Assets/images";
 
 function CricketDashboard(){
@@ -36,19 +29,19 @@ function CricketDashboard(){
                 </div>
             </section>
             
-            <section id="add-new-player">
+            {/* <section id="add-new-player">
                 <Switch>
                     <Route path="/cricket-dashboard/add-new-player" exact component={AddPlayer} />
                 </Switch>
-            </section>
+            </section> */}
 
-            <section id="edit-player">
+            {/* <section id="edit-player">
                 <Switch>
                     <Route path="/cricket-dashboard/edit-player/:id" exact component={EditPlayer} />
                 </Switch>
-            </section>
+            </section> */}
 
-            <section id="player-list">
+            {/* <section id="player-list">
                 <div className="container">
                     <div className="row">
                         <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12">
@@ -58,7 +51,7 @@ function CricketDashboard(){
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             
             <section id="photo-gallery">
                 <div className="container">

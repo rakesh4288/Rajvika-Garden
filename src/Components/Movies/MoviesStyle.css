@@ -1,0 +1,12 @@
+.moviesCard .card{
+    margin-bottom: 30px;
+}
+
+.moviesCard .card-title {
+    color: blueviolet;
+}
+
+.moviesCard .card .card-img-top{
+    width: 100%;
+    height: 345px;
+}
